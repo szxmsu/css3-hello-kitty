@@ -1,0 +1,29 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+    font-size: 0px;
+}
+
+.hello-kitty-container {
+    position: relative;
+    margin: 0px auto;
+    width: 1024px;
+    height: 729px;
+}
+
+    .hello-kitty-container .hello-kitty-img {
+        position: absolute;
+        width: 1024px;
+        height: 729px;
+        background-color: pink;
+    }
+
+    .hello-kitty-container .hello-kitty-div {
+        position: absolute;
+        width: 1024px;
+        height: 729px;
+    }
+
+.hello-kitty-div div {
+    position: absolute;
+}
