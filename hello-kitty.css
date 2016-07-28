@@ -42,5 +42,48 @@
     border-top-right-radius: 355px 333px;
     border-bottom-left-radius: 370px 285px;
     border-bottom-right-radius: 330px 255px;
-    opacity: 0.4;
+    background-color: white;
+    z-index: 100;
+}
+
+.hello-kitty-div .left-ear {
+    left: 112px;
+    top: 61px;
+    width: 250px;
+    height: 250px;
+    border-top: 33px solid black;
+    border-bottom: 30px solid black;
+    border-left: 28px solid black;
+    border-right: 30px solid black;
+    border-top-left-radius: 138px 100px;
+    border-bottom-left-radius: 334px 310px;
+    background-color: white;
+    transform: rotate(23deg);
+    z-index: 99;
+}
+
+.hello-kitty-div .left-ear-clean {
+    left: 146px;
+    top: 96px;
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 138px 100px;
+    border-bottom-left-radius: 360px 310px;
+    background-color: white;
+    transform: rotate(23deg);
+    z-index: 101;
+}
+
+.hello-kitty-div .left-ear-beautify {
+    left: 149px;
+    top: 221px;
+    width: 60px;
+    height: 30px;
+    border-top-left-radius: 20px 15px;
+    border-top-right-radius: 25px 15px;
+    border-bottom-left-radius: 20px 15px;
+    border-bottom-right-radius: 25px 15px;
+    background-color: black;
+    transform: rotate(-52deg);
+    z-index: 102;
 }
