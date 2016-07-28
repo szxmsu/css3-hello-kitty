@@ -87,3 +87,20 @@
     transform: rotate(-52deg);
     z-index: 102;
 }
+
+.hello-kitty-div .right-ear {
+    left: 600px;
+    top: 50px;
+    width: 250px;
+    height: 250px;
+    border-top: 33px solid black;
+    border-bottom: 28px solid black;
+    border-left: 30px solid black;
+    border-right: 29px solid black;
+    border-top-left-radius: 220px 170px;
+    border-top-right-radius: 90px 57px;
+    border-bottom-right-radius: 334px 245px;
+    background-color: white;
+    transform: rotate(-21deg);
+    z-index: 99;
+}
