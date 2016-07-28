@@ -16,6 +16,7 @@
         width: 1024px;
         height: 729px;
         background-color: pink;
+        opacity: 0.2;
     }
 
     .hello-kitty-container .hello-kitty-div {
@@ -26,4 +27,20 @@
 
 .hello-kitty-div div {
     position: absolute;
+}
+
+.hello-kitty-div .face {
+    left: 107px;
+    top: 77px;
+    width: 747px;
+    height: 566px;
+    border-top: 35px solid black;
+    border-bottom: 31px solid black;
+    border-left: 29px solid black;
+    border-right: 30px solid black;
+    border-top-left-radius: 355px 333px;
+    border-top-right-radius: 355px 333px;
+    border-bottom-left-radius: 370px 285px;
+    border-bottom-right-radius: 330px 255px;
+    opacity: 0.4;
 }
