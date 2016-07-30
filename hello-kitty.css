@@ -105,7 +105,16 @@
     z-index: 99;
 }
 
-.hello-kitty-div .bow-outside-left-top-container {
+.hello-kitty-div .right-ear-clean {
+    left: 700px;
+    top: 105px;
+    width: 120px;
+    height: 120px;
+    background-color: white;
+    z-index: 101;
+}
+
+.hello-kitty-div .bowknot-outside-left-top-container {
     left: 508px;
     top: -110px;
     width: 300px;
@@ -113,10 +122,10 @@
     transform-origin: 0px 0px;
     transform: rotate(25deg);
     overflow: hidden;
-    z-index: 101;
+    z-index: 103;
 }
 
-.hello-kitty-div .bow-outside-left-bottom-container {
+.hello-kitty-div .bowknot-outside-left-bottom-container {
     left: 424px;
     top: 70px;
     width: 300px;
@@ -124,10 +133,10 @@
     transform-origin: 0px 0px;
     transform: rotate(25deg);
     overflow: hidden;
-    z-index: 101;
+    z-index: 103;
 }
 
-.hello-kitty-div .bow-outside-right-top-container {
+.hello-kitty-div .bowknot-outside-right-top-container {
     left: 828px;
     top: 35px;
     width: 300px;
@@ -135,10 +144,10 @@
     transform-origin: 0px 0px;
     transform: rotate(25deg);
     overflow: hidden;
-    z-index: 101;
+    z-index: 103;
 }
 
-.hello-kitty-div .bow-outside-right-bottom-container {
+.hello-kitty-div .bowknot-outside-right-bottom-container {
     left: 744px;
     top: 215px;
     width: 300px;
@@ -146,10 +155,10 @@
     transform-origin: 0px 0px;
     transform: rotate(25deg);
     overflow: hidden;
-    z-index: 101;
+    z-index: 103;
 }
 
-.hello-kitty-div .bow-outside-left-top {
+.hello-kitty-div .bowknot-outside-left-top {
     left: 128px;
     top: 52px;
     width: 185px;
@@ -164,7 +173,7 @@
     transform: rotate(-25deg);
 }
 
-.hello-kitty-div .bow-outside-left-bottom {
+.hello-kitty-div .bowknot-outside-left-bottom {
     left: 110px;
     top: -270px;
     width: 185px;
@@ -179,7 +188,7 @@
     transform: rotate(15deg);
 }
 
-.hello-kitty-div .bow-outside-right-top {
+.hello-kitty-div .bowknot-outside-right-top {
     left: -51px;
     top: 102px;
     width: 205px;
@@ -192,7 +201,7 @@
     transform: rotate(-25deg);
 }
 
-.hello-kitty-div .bow-outside-right-bottom {
+.hello-kitty-div .bowknot-outside-right-bottom {
     left: -52px;
     top: -234px;
     width: 195px;
@@ -205,4 +214,40 @@
     border-bottom-right-radius: 160px 304px;
     background-color: #E72235;
     transform: rotate(-35deg);
+}
+
+.hello-kitty-div .bowknot-inside-left {
+    left: 595px;
+    top: 122px;
+    width: 47px;
+    height: 47px;
+    border: 25px solid black;
+    border-radius: 48px;
+    background-color: #E72235;
+    z-index: 104;
+}
+
+.hello-kitty-div .bowknot-inside-right {
+    right: 182px;
+    bottom: 444px;
+    width: 35px;
+    height: 35px;
+    border: 25px solid black;
+    border-radius: 42px;
+    background-color: #E72235;
+    z-index: 104;
+}
+
+.hello-kitty-div .bowknot-inside-center {
+    left: 635px;
+    top: 130px;
+    width: 116px;
+    height: 116px;
+    border-top: 23px solid black;
+    border-bottom: 23px solid black;
+    border-left: 24px solid black;
+    border-right: 24px solid black;
+    border-radius: 80px 80px;
+    background-color: #E72235;
+    z-index: 105;
 }
