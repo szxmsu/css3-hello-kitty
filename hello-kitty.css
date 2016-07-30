@@ -104,3 +104,105 @@
     transform: rotate(-21deg);
     z-index: 99;
 }
+
+.hello-kitty-div .bow-outside-left-top-container {
+    left: 508px;
+    top: -110px;
+    width: 300px;
+    height: 200px;
+    transform-origin: 0px 0px;
+    transform: rotate(25deg);
+    overflow: hidden;
+    z-index: 101;
+}
+
+.hello-kitty-div .bow-outside-left-bottom-container {
+    left: 424px;
+    top: 70px;
+    width: 300px;
+    height: 200px;
+    transform-origin: 0px 0px;
+    transform: rotate(25deg);
+    overflow: hidden;
+    z-index: 101;
+}
+
+.hello-kitty-div .bow-outside-right-top-container {
+    left: 828px;
+    top: 35px;
+    width: 300px;
+    height: 200px;
+    transform-origin: 0px 0px;
+    transform: rotate(25deg);
+    overflow: hidden;
+    z-index: 101;
+}
+
+.hello-kitty-div .bow-outside-right-bottom-container {
+    left: 744px;
+    top: 215px;
+    width: 300px;
+    height: 200px;
+    transform-origin: 0px 0px;
+    transform: rotate(25deg);
+    overflow: hidden;
+    z-index: 101;
+}
+
+.hello-kitty-div .bow-outside-left-top {
+    left: 128px;
+    top: 52px;
+    width: 185px;
+    height: 352px;
+    border-top: 22px solid black;
+    border-bottom: 24px solid black;
+    border-left: 22px solid black;
+    border-right: 23px solid black;
+    border-top-left-radius: 118px 178px;
+    border-top-right-radius: 112px 218px;
+    background-color: #E72235;
+    transform: rotate(-25deg);
+}
+
+.hello-kitty-div .bow-outside-left-bottom {
+    left: 110px;
+    top: -270px;
+    width: 185px;
+    height: 352px;
+    border-top: 24px solid black;
+    border-bottom: 23px solid black;
+    border-left: 23px solid black;
+    border-right: 23px solid black;
+    border-bottom-left-radius: 110px 233px;
+    border-bottom-right-radius: 110px 190px;
+    background-color: #E72235;
+    transform: rotate(15deg);
+}
+
+.hello-kitty-div .bow-outside-right-top {
+    left: -51px;
+    top: 102px;
+    width: 205px;
+    height: 188px;
+    border: 23px solid black;
+    border-top-left-radius: 178px 178px;
+    border-top-right-radius: 79px 51px;
+    border-bottom-right-radius: 189px 185px;
+    background-color: #E72235;
+    transform: rotate(-25deg);
+}
+
+.hello-kitty-div .bow-outside-right-bottom {
+    left: -52px;
+    top: -234px;
+    width: 195px;
+    height: 286px;
+    border-left: 23px solid black;
+    border-right: 26px solid black;
+    border-top: 23px solid black;
+    border-bottom: 23px solid black;
+    border-bottom-left-radius: 83px 124px;
+    border-bottom-right-radius: 160px 304px;
+    background-color: #E72235;
+    transform: rotate(-35deg);
+}
