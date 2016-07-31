@@ -286,3 +286,93 @@
     background-color: #EEC827;
     z-index: 101;
 }
+
+.hello-kitty-div .left-moustache-1:before {
+    content: '\20';
+    display: block;
+    position: absolute;
+    left: 20px;
+    top: 420px;
+    width: 100px;
+    height: 24px;
+    border-top-left-radius: 80px 30px;
+    border-bottom-left-radius: 20px;
+    background-color: black;
+    transform: rotate(-5deg);
+    z-index: 101;
+}
+
+.hello-kitty-div .left-moustache-1:after {
+    content: '\20';
+    display: block;
+    position: absolute;
+    left: 131px;
+    top: 418px;
+    width: 60px;
+    height: 24px;
+    border-top-right-radius: 100px 30px;
+    border-bottom-right-radius: 20px;
+    background-color: black;
+    transform: rotate(2deg);
+    z-index: 101;
+}
+
+.hello-kitty-div .left-moustache-2:before {
+    content: '\20';
+    display: block;
+    position: absolute;
+    left: 64px;
+    top: 512px;
+    width: 80px;
+    height: 24px;
+    border-top-left-radius: 80px 30px;
+    border-bottom-left-radius: 50px 20px;
+    background-color: black;
+    transform: rotate(-14deg);
+    z-index: 101;
+}
+
+.hello-kitty-div .left-moustache-2:after {
+    content: '\20';
+    display: block;
+    position: absolute;
+    left: 135px;
+    top: 498px;
+    width: 60px;
+    height: 24px;
+    border-top-right-radius: 100px 30px;
+    border-bottom-right-radius: 20px;
+    background-color: black;
+    transform: rotate(-15deg);
+    z-index: 101;
+}
+
+.hello-kitty-div .left-moustache-3:before {
+    content: '\20';
+    display: block;
+    position: absolute;
+    left: 90px;
+    top: 601px;
+    width: 100px;
+    height: 24px;
+    border-top-left-radius: 50px 30px;
+    border-bottom-left-radius: 30px 20px;
+    background-color: black;
+    transform: rotate(-29deg);
+    z-index: 101;
+}
+
+.hello-kitty-div .left-moustache-3:after {
+    content: '\20';
+    display: block;
+    position: absolute;
+    left: 183px;
+    top: 564px;
+    width: 60px;
+    height: 24px;
+    border-top-right-radius: 100px 30px;
+    border-bottom-right-radius: 20px;
+    background-color: black;
+    transform: rotate(-25deg);
+    z-index: 101;
+}
