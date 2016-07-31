@@ -247,7 +247,7 @@
     border-bottom: 23px solid black;
     border-left: 24px solid black;
     border-right: 24px solid black;
-    border-radius: 80px 80px;
+    border-radius: 80px;
     background-color: #E72235;
     z-index: 105;
 }
@@ -257,7 +257,7 @@
     top: 429px;
     width: 58px;
     height: 76px;
-    border-radius: 40px 40px;
+    border-radius: 40px;
     background-color: black;
     z-index: 101;
 }
@@ -268,7 +268,21 @@
     top: 430px;
     width: 58px;
     height: 76px;
-    border-radius: 40px 40px;
+    border-radius: 40px;
     background-color: black;
+    z-index: 101;
+}
+
+.hello-kitty-div .nose {
+    left: 469px;
+    top: 498px;
+    width: 50px;
+    height: 31px;
+    border-top: 19px solid black;
+    border-bottom: 19px solid black;
+    border-left: 20px solid black;
+    border-right: 20px solid black;
+    border-radius: 43px / 34px;
+    background-color: #EEC827;
     z-index: 101;
 }
