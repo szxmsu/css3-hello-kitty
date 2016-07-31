@@ -251,3 +251,24 @@
     background-color: #E72235;
     z-index: 105;
 }
+
+.hello-kitty-div .left-eye {
+    left: 280px;
+    top: 429px;
+    width: 58px;
+    height: 76px;
+    border-radius: 40px 40px;
+    background-color: black;
+    z-index: 101;
+}
+
+
+.hello-kitty-div .right-eye {
+    left: 678px;
+    top: 430px;
+    width: 58px;
+    height: 76px;
+    border-radius: 40px 40px;
+    background-color: black;
+    z-index: 101;
+}
