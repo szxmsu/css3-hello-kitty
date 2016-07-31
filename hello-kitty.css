@@ -15,8 +15,6 @@
         position: absolute;
         width: 1024px;
         height: 729px;
-        background-color: pink;
-        opacity: 0.2;
     }
 
     .hello-kitty-container .hello-kitty-div {
@@ -58,6 +56,10 @@
     border-top-left-radius: 138px 100px;
     border-bottom-left-radius: 334px 310px;
     background-color: white;
+    -o-transform: rotate(23deg);
+    -ms-transform: rotate(23deg);
+    -moz-transform: rotate(23deg);
+    -webkit-transform: rotate(23deg);
     transform: rotate(23deg);
     z-index: 99;
 }
@@ -70,6 +72,10 @@
     border-top-left-radius: 138px 100px;
     border-bottom-left-radius: 360px 310px;
     background-color: white;
+    -o-transform: rotate(23deg);
+    -ms-transform: rotate(23deg);
+    -moz-transform: rotate(23deg);
+    -webkit-transform: rotate(23deg);
     transform: rotate(23deg);
     z-index: 101;
 }
@@ -84,6 +90,10 @@
     border-bottom-left-radius: 20px 15px;
     border-bottom-right-radius: 25px 15px;
     background-color: black;
+    -o-transform: rotate(-52deg);
+    -ms-transform: rotate(-52deg);
+    -moz-transform: rotate(-52deg);
+    -webkit-transform: rotate(-52deg);
     transform: rotate(-52deg);
     z-index: 102;
 }
@@ -101,6 +111,10 @@
     border-top-right-radius: 90px 57px;
     border-bottom-right-radius: 334px 245px;
     background-color: white;
+    -o-transform: rotate(-21deg);
+    -ms-transform: rotate(-21deg);
+    -moz-transform: rotate(-21deg);
+    -webkit-transform: rotate(-21deg);
     transform: rotate(-21deg);
     z-index: 99;
 }
@@ -119,7 +133,15 @@
     top: -110px;
     width: 300px;
     height: 200px;
+    -o-transform-origin: 0px 0px;
+    -ms-transform-origin: 0px 0px;
+    -moz-transform-origin: 0px 0px;
+    -webkit-transform-origin: 0px 0px;
     transform-origin: 0px 0px;
+    -o-transform: rotate(25deg);
+    -ms-transform: rotate(25deg);
+    -moz-transform: rotate(25deg);
+    -webkit-transform: rotate(25deg);
     transform: rotate(25deg);
     overflow: hidden;
     z-index: 103;
@@ -130,7 +152,15 @@
     top: 70px;
     width: 300px;
     height: 200px;
+    -o-transform-origin: 0px 0px;
+    -ms-transform-origin: 0px 0px;
+    -moz-transform-origin: 0px 0px;
+    -webkit-transform-origin: 0px 0px;
     transform-origin: 0px 0px;
+    -o-transform: rotate(25deg);
+    -ms-transform: rotate(25deg);
+    -moz-transform: rotate(25deg);
+    -webkit-transform: rotate(25deg);
     transform: rotate(25deg);
     overflow: hidden;
     z-index: 103;
@@ -141,7 +171,15 @@
     top: 35px;
     width: 300px;
     height: 200px;
+    -o-transform-origin: 0px 0px;
+    -ms-transform-origin: 0px 0px;
+    -moz-transform-origin: 0px 0px;
+    -webkit-transform-origin: 0px 0px;
     transform-origin: 0px 0px;
+    -o-transform: rotate(25deg);
+    -ms-transform: rotate(25deg);
+    -moz-transform: rotate(25deg);
+    -webkit-transform: rotate(25deg);
     transform: rotate(25deg);
     overflow: hidden;
     z-index: 103;
@@ -152,7 +190,15 @@
     top: 215px;
     width: 300px;
     height: 200px;
+    -o-transform-origin: 0px 0px;
+    -ms-transform-origin: 0px 0px;
+    -moz-transform-origin: 0px 0px;
+    -webkit-transform-origin: 0px 0px;
     transform-origin: 0px 0px;
+    -o-transform: rotate(25deg);
+    -ms-transform: rotate(25deg);
+    -moz-transform: rotate(25deg);
+    -webkit-transform: rotate(25deg);
     transform: rotate(25deg);
     overflow: hidden;
     z-index: 103;
@@ -170,6 +216,10 @@
     border-top-left-radius: 118px 178px;
     border-top-right-radius: 112px 218px;
     background-color: #E72235;
+    -o-transform: rotate(-25deg);
+    -ms-transform: rotate(-25deg);
+    -moz-transform: rotate(-25deg);
+    -webkit-transform: rotate(-25deg);
     transform: rotate(-25deg);
 }
 
@@ -185,6 +235,10 @@
     border-bottom-left-radius: 110px 233px;
     border-bottom-right-radius: 110px 190px;
     background-color: #E72235;
+    -o-transform: rotate(15deg);
+    -ms-transform: rotate(15deg);
+    -moz-transform: rotate(15deg);
+    -webkit-transform: rotate(15deg);
     transform: rotate(15deg);
 }
 
@@ -198,6 +252,10 @@
     border-top-right-radius: 79px 51px;
     border-bottom-right-radius: 189px 185px;
     background-color: #E72235;
+    -o-transform: rotate(-25deg);
+    -ms-transform: rotate(-25deg);
+    -moz-transform: rotate(-25deg);
+    -webkit-transform: rotate(-25deg);
     transform: rotate(-25deg);
 }
 
@@ -213,6 +271,10 @@
     border-bottom-left-radius: 83px 124px;
     border-bottom-right-radius: 160px 304px;
     background-color: #E72235;
+    -o-transform: rotate(-35deg);
+    -ms-transform: rotate(-35deg);
+    -moz-transform: rotate(-35deg);
+    -webkit-transform: rotate(-35deg);
     transform: rotate(-35deg);
 }
 
@@ -298,6 +360,10 @@
     border-top-left-radius: 80px 30px;
     border-bottom-left-radius: 20px;
     background-color: black;
+    -o-transform: rotate(-5deg);
+    -ms-transform: rotate(-5deg);
+    -moz-transform: rotate(-5deg);
+    -webkit-transform: rotate(-5deg);
     transform: rotate(-5deg);
     z-index: 101;
 }
@@ -313,6 +379,10 @@
     border-top-right-radius: 100px 30px;
     border-bottom-right-radius: 20px;
     background-color: black;
+    -o-transform: rotate(2deg);
+    -ms-transform: rotate(2deg);
+    -moz-transform: rotate(2deg);
+    -webkit-transform: rotate(2deg);
     transform: rotate(2deg);
     z-index: 101;
 }
@@ -328,6 +398,10 @@
     border-top-left-radius: 80px 30px;
     border-bottom-left-radius: 50px 20px;
     background-color: black;
+    -o-transform: rotate(-14deg);
+    -ms-transform: rotate(-14deg);
+    -moz-transform: rotate(-14deg);
+    -webkit-transform: rotate(-14deg);
     transform: rotate(-14deg);
     z-index: 101;
 }
@@ -343,6 +417,10 @@
     border-top-right-radius: 100px 30px;
     border-bottom-right-radius: 20px;
     background-color: black;
+    -o-transform: rotate(-15deg);
+    -ms-transform: rotate(-15deg);
+    -moz-transform: rotate(-15deg);
+    -webkit-transform: rotate(-15deg);
     transform: rotate(-15deg);
     z-index: 101;
 }
@@ -358,6 +436,10 @@
     border-top-left-radius: 80px 30px;
     border-bottom-left-radius: 20px 20px;
     background-color: black;
+    -o-transform: rotate(-29deg);
+    -ms-transform: rotate(-29deg);
+    -moz-transform: rotate(-29deg);
+    -webkit-transform: rotate(-29deg);
     transform: rotate(-29deg);
     z-index: 101;
 }
@@ -373,6 +455,10 @@
     border-top-right-radius: 100px 30px;
     border-bottom-right-radius: 20px;
     background-color: black;
+    -o-transform: rotate(-25deg);
+    -ms-transform: rotate(-25deg);
+    -moz-transform: rotate(-25deg);
+    -webkit-transform: rotate(-25deg);
     transform: rotate(-25deg);
     z-index: 101;
 }
@@ -388,6 +474,10 @@
     border-top-left-radius: 60px 30px;
     border-bottom-left-radius: 30px 20px;
     background-color: black;
+    -o-transform: rotate(-5deg);
+    -ms-transform: rotate(-5deg);
+    -moz-transform: rotate(-5deg);
+    -webkit-transform: rotate(-5deg);
     transform: rotate(-5deg);
     z-index: 101;
 }
@@ -403,6 +493,10 @@
     border-top-right-radius: 100px 30px;
     border-bottom-right-radius: 20px;
     background-color: black;
+    -o-transform: rotate(-2deg);
+    -ms-transform: rotate(-2deg);
+    -moz-transform: rotate(-2deg);
+    -webkit-transform: rotate(-2deg);
     transform: rotate(-2deg);
     z-index: 101;
 }
@@ -418,6 +512,10 @@
     border-top-left-radius: 55px 30px;
     border-bottom-left-radius: 50px 20px;
     background-color: black;
+    -o-transform: rotate(7deg);
+    -ms-transform: rotate(7deg);
+    -moz-transform: rotate(7deg);
+    -webkit-transform: rotate(7deg);
     transform: rotate(7deg);
     z-index: 101;
 }
@@ -433,6 +531,10 @@
     border-top-right-radius: 120px 30px;
     border-bottom-right-radius: 20px;
     background-color: black;
+    -o-transform: rotate(6deg);
+    -ms-transform: rotate(6deg);
+    -moz-transform: rotate(6deg);
+    -webkit-transform: rotate(6deg);
     transform: rotate(6deg);
     z-index: 101;
 }
@@ -448,6 +550,10 @@
     border-top-left-radius: 50px 30px;
     border-bottom-left-radius: 40px 20px;
     background-color: black;
+    -o-transform: rotate(18deg);
+    -ms-transform: rotate(18deg);
+    -moz-transform: rotate(18deg);
+    -webkit-transform: rotate(18deg);
     transform: rotate(18deg);
     z-index: 101;
 }
@@ -463,6 +569,10 @@
     border-top-right-radius: 100px 30px;
     border-bottom-right-radius: 20px;
     background-color: black;
+    -o-transform: rotate(22deg);
+    -ms-transform: rotate(22deg);
+    -moz-transform: rotate(22deg);
+    -webkit-transform: rotate(22deg);
     transform: rotate(22deg);
     z-index: 101;
 }
