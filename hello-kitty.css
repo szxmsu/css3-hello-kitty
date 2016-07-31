@@ -355,8 +355,8 @@
     top: 601px;
     width: 100px;
     height: 24px;
-    border-top-left-radius: 50px 30px;
-    border-bottom-left-radius: 30px 20px;
+    border-top-left-radius: 80px 30px;
+    border-bottom-left-radius: 20px 20px;
     background-color: black;
     transform: rotate(-29deg);
     z-index: 101;
@@ -374,5 +374,95 @@
     border-bottom-right-radius: 20px;
     background-color: black;
     transform: rotate(-25deg);
+    z-index: 101;
+}
+
+.hello-kitty-div .right-moustache-1:before {
+    content: '\20';
+    display: block;
+    position: absolute;
+    left: 829px;
+    top: 404px;
+    width: 80px;
+    height: 24px;
+    border-top-left-radius: 60px 30px;
+    border-bottom-left-radius: 30px 20px;
+    background-color: black;
+    transform: rotate(-5deg);
+    z-index: 101;
+}
+
+.hello-kitty-div .right-moustache-1:after {
+    content: '\20';
+    display: block;
+    position: absolute;
+    left: 902px;
+    top: 398px;
+    width: 100px;
+    height: 24px;
+    border-top-right-radius: 100px 30px;
+    border-bottom-right-radius: 20px;
+    background-color: black;
+    transform: rotate(-2deg);
+    z-index: 101;
+}
+
+.hello-kitty-div .right-moustache-2:before {
+    content: '\20';
+    display: block;
+    position: absolute;
+    left: 844px;
+    top: 482px;
+    width: 50px;
+    height: 24px;
+    border-top-left-radius: 55px 30px;
+    border-bottom-left-radius: 50px 20px;
+    background-color: black;
+    transform: rotate(7deg);
+    z-index: 101;
+}
+
+.hello-kitty-div .right-moustache-2:after {
+    content: '\20';
+    display: block;
+    position: absolute;
+    left: 898px;
+    top: 489px;
+    width: 80px;
+    height: 24px;
+    border-top-right-radius: 120px 30px;
+    border-bottom-right-radius: 20px;
+    background-color: black;
+    transform: rotate(6deg);
+    z-index: 101;
+}
+
+.hello-kitty-div .right-moustache-3:before {
+    content: '\20';
+    display: block;
+    position: absolute;
+    left: 809px;
+    top: 557px;
+    width: 50px;
+    height: 24px;
+    border-top-left-radius: 50px 30px;
+    border-bottom-left-radius: 40px 20px;
+    background-color: black;
+    transform: rotate(18deg);
+    z-index: 101;
+}
+
+.hello-kitty-div .right-moustache-3:after {
+    content: '\20';
+    display: block;
+    position: absolute;
+    left: 853px;
+    top: 582px;
+    width: 100px;
+    height: 24px;
+    border-top-right-radius: 100px 30px;
+    border-bottom-right-radius: 20px;
+    background-color: black;
+    transform: rotate(22deg);
     z-index: 101;
 }
