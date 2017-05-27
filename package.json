@@ -1,0 +1,23 @@
+{
+  "name": "css3-hello-kitty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chnhyg/css3-hello-kitty.git"
+  },
+  "author": {
+    "name": "Lyon Hu",
+    "email": "chn.yslner@outlook.com",
+    "url": "https://uxwind.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chnhyg/css3-hello-kitty/issues"
+  },
+  "homepage": "https://github.com/chnhyg/css3-hello-kitty#readme"
+}
